@@ -1,13 +1,13 @@
-pypdf
+# All langchain-related
 langchain
 langchain_community
-langchain-google-genai
 langchain-huggingface
-langchain_experimental
 langchain-openai
-streamlit
-chromadb
 langchain-chroma
-langchain-huggingface
+
+pypdf       # For reading PDF files
+chromadb
+streamlit
 huggingface-hub
 sentence-transformers
+python-dotenv
