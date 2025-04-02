@@ -1,0 +1,13 @@
+pypdf
+langchain
+langchain_community
+langchain-google-genai
+langchain-huggingface
+langchain_experimental
+langchain-openai
+streamlit
+chromadb
+langchain-chroma
+langchain-huggingface
+huggingface-hub
+sentence-transformers
