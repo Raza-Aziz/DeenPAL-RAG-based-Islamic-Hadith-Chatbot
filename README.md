@@ -8,8 +8,8 @@
 
 ## 🚀 Features
 
-- **Personalized Responses:** Delivers tailored medical information based on user queries.
-- **Reliable Sources:** Utilizes trusted medical databases to ensure information accuracy.
+- **Personalized Responses:** Delivers tailored information based on user queries.
+- **Reliable Sources:** Utilizes trusted hadith sources to ensure information accuracy.
 - **Interactive Interface:** Engages users through a conversational platform for seamless interaction.
 
 ## 🛠️ Installation
