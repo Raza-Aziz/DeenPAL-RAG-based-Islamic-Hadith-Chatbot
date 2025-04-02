@@ -4,8 +4,7 @@ langchain_community
 langchain-huggingface
 langchain-openai
 langchain-chroma
-
-pypdf       # For reading PDF files
+pypdf
 chromadb
 streamlit
 huggingface-hub
