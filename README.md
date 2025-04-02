@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Raza-Aziz/DeenPAL-RAG-based-Islamic-Hadith-Chatbot)
 ![GitHub stars](https://img.shields.io/github/stars/Raza-Aziz/DeenPAL-RAG-based-Islamic-Hadith-Chatbot?style=social)
 
-> A Retrieval-Augmented Generation (RAG) based chatbot designed to provide accurate and personalized medical information to users.
+> A Retrieval-Augmented Generation (RAG) based chatbot designed to provide accurate and personalized Islamic information to users based on Hadiths.
 
 ## 🚀 Features
 
